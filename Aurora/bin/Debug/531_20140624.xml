@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Invoices>
+  <From>AURORA AVIATION S.A</From>
+  <RegisteredAddress>DUBAIUNITED ARAB EMIR.</RegisteredAddress>
+  <CorrespondenceAddress>DUBAIUNITED ARAB EMIR.</CorrespondenceAddress>
+  <Invoice>
+    <InvoiceNumber>1180</InvoiceNumber>
+    <InvoiceDate>01/04/2014</InvoiceDate>
+    <DueDate>16/04/2014</DueDate>
+    <InvoiceType>
+    </InvoiceType>
+    <Customer>C00129</Customer>
+    <Name>Alpha Star Aviation Services</Name>
+    <OrderReference>140324202</OrderReference>
+    <TotalBeforeVAT>4407.6</TotalBeforeVAT>
+    <VATAmount>0</VATAmount>
+    <GrandTotal>4407.6</GrandTotal>
+    <Discount>0</Discount>
+    <Currency>USD</Currency>
+    <Remarks>Based on Sales Orders 14051209.</Remarks>
+    <InvoiceLines>
+      <InvoiceLine>
+        <InvoiceNumber>1180</InvoiceNumber>
+        <LineNumber>1</LineNumber>
+        <ItemName>COO FEE</ItemName>
+        <Description>Coordination Fee</Description>
+        <AircraftRegistration>HZA5</AircraftRegistration>
+        <AircraftType>A318</AircraftType>
+        <FlightDate>01/04/2014</FlightDate>
+        <FlightNumber>HZA5</FlightNumber>
+        <AirportTimeArrival>
+        </AirportTimeArrival>
+        <AirportTimeDeparture>
+        </AirportTimeDeparture>
+        <Country>UNITED ARAB EMIRATES</Country>
+        <AirportICAO>OMAD</AirportICAO>
+        <AirportIATA>AZI</AirportIATA>
+        <Price>1200</Price>
+        <Quantity>1</Quantity>
+        <Unit>1</Unit>
+        <Amount>4407.6</Amount>
+      </InvoiceLine>
+    </InvoiceLines>
+  </Invoice>
+</Invoices>

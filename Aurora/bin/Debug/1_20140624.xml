@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<Invoices>
+  <From>OEC Computers India</From>
+  <RegisteredAddress>2nd Floor, The Great Eastern CenterNo 70  Nehru PlaceNew Delhi - 110019IN</RegisteredAddress>
+  <CorrespondenceAddress>2nd Floor, The Great Eastern CenterNo 70  Nehru PlaceNew Delhi - 110019IN</CorrespondenceAddress>
+  <Invoice>
+    <InvoiceNumber>1</InvoiceNumber>
+    <InvoiceDate>22-01-2006</InvoiceDate>
+    <DueDate>21-02-2006</DueDate>
+    <InvoiceType>
+    </InvoiceType>
+    <Customer>C20000</Customer>
+    <Name>Madhu</Name>
+    <OrderReference>
+    </OrderReference>
+    <TotalBeforeVAT>607500</TotalBeforeVAT>
+    <VATAmount>93713.76</VATAmount>
+    <GrandTotal>701213.76</GrandTotal>
+    <Discount>0</Discount>
+    <Currency>INR</Currency>
+    <Remarks>Based On Sales Quotations 1. Based On Sales Orders 1. Based On Deliveries 1.</Remarks>
+    <InvoiceLines>
+      <InvoiceLine>
+        <InvoiceNumber>1</InvoiceNumber>
+        <LineNumber>1</LineNumber>
+        <ItemName>A00001</ItemName>
+        <Description>IBM Infoprint 1312</Description>
+        <AircraftRegistration>
+        </AircraftRegistration>
+        <AircraftType>
+        </AircraftType>
+        <FlightDate>22-01-2006</FlightDate>
+        <FlightNumber>
+        </FlightNumber>
+        <AirportTimeArrival>
+        </AirportTimeArrival>
+        <AirportTimeDeparture>
+        </AirportTimeDeparture>
+        <Country>
+        </Country>
+        <AirportICAO>
+        </AirportICAO>
+        <AirportIATA>
+        </AirportIATA>
+        <Price>27000</Price>
+        <Quantity>5</Quantity>
+        <Unit>1</Unit>
+        <Amount>135000</Amount>
+      </InvoiceLine>
+      <InvoiceLine>
+        <InvoiceNumber>1</InvoiceNumber>
+        <LineNumber>2</LineNumber>
+        <ItemName>A00002</ItemName>
+        <Description>IBM Infoprint 1222</Description>
+        <AircraftRegistration>
+        </AircraftRegistration>
+        <AircraftType>
+        </AircraftType>
+        <FlightDate>22-01-2006</FlightDate>
+        <FlightNumber>
+        </FlightNumber>
+        <AirportTimeArrival>
+        </AirportTimeArrival>
+        <AirportTimeDeparture>
+        </AirportTimeDeparture>
+        <Country>
+        </Country>
+        <AirportICAO>
+        </AirportICAO>
+        <AirportIATA>
+        </AirportIATA>
+        <Price>13500</Price>
+        <Quantity>5</Quantity>
+        <Unit>1</Unit>
+        <Amount>67500</Amount>
+      </InvoiceLine>
+      <InvoiceLine>
+        <InvoiceNumber>1</InvoiceNumber>
+        <LineNumber>3</LineNumber>
+        <ItemName>A00003</ItemName>
+        <Description>IBM Infoprint 1226</Description>
+        <AircraftRegistration>
+        </AircraftRegistration>
+        <AircraftType>
+        </AircraftType>
+        <FlightDate>22-01-2006</FlightDate>
+        <FlightNumber>
+        </FlightNumber>
+        <AirportTimeArrival>
+        </AirportTimeArrival>
+        <AirportTimeDeparture>
+        </AirportTimeDeparture>
+        <Country>
+        </Country>
+        <AirportICAO>
+        </AirportICAO>
+        <AirportIATA>
+        </AirportIATA>
+        <Price>20250</Price>
+        <Quantity>5</Quantity>
+        <Unit>1</Unit>
+        <Amount>101250</Amount>
+      </InvoiceLine>
+      <InvoiceLine>
+        <InvoiceNumber>1</InvoiceNumber>
+        <LineNumber>4</LineNumber>
+        <ItemName>A00004</ItemName>
+        <Description>HP Color Laser Jet 5</Description>
+        <AircraftRegistration>
+        </AircraftRegistration>
+        <AircraftType>
+        </AircraftType>
+        <FlightDate>22-01-2006</FlightDate>
+        <FlightNumber>
+        </FlightNumber>
+        <AirportTimeArrival>
+        </AirportTimeArrival>
+        <AirportTimeDeparture>
+        </AirportTimeDeparture>
+        <Country>
+        </Country>
+        <AirportICAO>
+        </AirportICAO>
+        <AirportIATA>
+        </AirportIATA>
+        <Price>33750</Price>
+        <Quantity>5</Quantity>
+        <Unit>1</Unit>
+        <Amount>168750</Amount>
+      </InvoiceLine>
+      <InvoiceLine>
+        <InvoiceNumber>1</InvoiceNumber>
+        <LineNumber>5</LineNumber>
+        <ItemName>A00005</ItemName>
+        <Description>HP Color Laser Jet 4</Description>
+        <AircraftRegistration>
+        </AircraftRegistration>
+        <AircraftType>
+        </AircraftType>
+        <FlightDate>22-01-2006</FlightDate>
+        <FlightNumber>
+        </FlightNumber>
+        <AirportTimeArrival>
+        </AirportTimeArrival>
+        <AirportTimeDeparture>
+        </AirportTimeDeparture>
+        <Country>
+        </Country>
+        <AirportICAO>
+        </AirportICAO>
+        <AirportIATA>
+        </AirportIATA>
+        <Price>27000</Price>
+        <Quantity>5</Quantity>
+        <Unit>1</Unit>
+        <Amount>135000</Amount>
+      </InvoiceLine>
+    </InvoiceLines>
+  </Invoice>
+</Invoices>

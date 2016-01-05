@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Invoices>
+  <From>OEC Computers India</From>
+  <RegisteredAddress>2nd Floor, The Great Eastern CenterNo 70  Nehru PlaceNew Delhi - 110019IN</RegisteredAddress>
+  <CorrespondenceAddress>2nd Floor, The Great Eastern CenterNo 70  Nehru PlaceNew Delhi - 110019IN</CorrespondenceAddress>
+  <Invoice>
+    <InvoiceNumber>101</InvoiceNumber>
+    <InvoiceDate>18-06-2014</InvoiceDate>
+    <DueDate>18-07-2014</DueDate>
+    <InvoiceType>
+    </InvoiceType>
+    <Customer>C20000</Customer>
+    <Name>Norm Thompson</Name>
+    <OrderReference>
+    </OrderReference>
+    <TotalBeforeVAT>124350</TotalBeforeVAT>
+    <VATAmount>4974</VATAmount>
+    <GrandTotal>129324</GrandTotal>
+    <Discount>0</Discount>
+    <Currency>INR</Currency>
+    <Remarks>
+    </Remarks>
+    <InvoiceLines>
+      <InvoiceLine>
+        <InvoiceNumber>101</InvoiceNumber>
+        <LineNumber>1</LineNumber>
+        <ItemName>S50000</ItemName>
+        <Description>Server Point 50000</Description>
+        <AircraftRegistration>
+        </AircraftRegistration>
+        <AircraftType>
+        </AircraftType>
+        <FlightDate>18-06-2014</FlightDate>
+        <FlightNumber>
+        </FlightNumber>
+        <AirportTimeArrival>
+        </AirportTimeArrival>
+        <AirportTimeDeparture>
+        </AirportTimeDeparture>
+        <Country>
+        </Country>
+        <AirportICAO>
+        </AirportICAO>
+        <AirportIATA>
+        </AirportIATA>
+        <Price>124350</Price>
+        <Quantity>1</Quantity>
+        <Unit>1</Unit>
+        <Amount>124350</Amount>
+      </InvoiceLine>
+    </InvoiceLines>
+  </Invoice>
+</Invoices>

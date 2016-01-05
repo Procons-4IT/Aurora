@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Invoices>
+  <From>OEC Computers India</From>
+  <RegisteredAddress>2nd Floor, The Great Eastern CenterNo 70  Nehru PlaceNew Delhi - 110019IN</RegisteredAddress>
+  <CorrespondenceAddress>2nd Floor, The Great Eastern CenterNo 70  Nehru PlaceNew Delhi - 110019IN</CorrespondenceAddress>
+  <Invoice>
+    <InvoiceNumber>105</InvoiceNumber>
+    <InvoiceDate>23-06-2014</InvoiceDate>
+    <DueDate>23-07-2014</DueDate>
+    <InvoiceType>
+    </InvoiceType>
+    <Customer>C23900</Customer>
+    <Name>Parameter Technology</Name>
+    <OrderReference>
+    </OrderReference>
+    <TotalBeforeVAT>124350</TotalBeforeVAT>
+    <VATAmount>4974</VATAmount>
+    <GrandTotal>129324</GrandTotal>
+    <Discount>0</Discount>
+    <Currency>INR</Currency>
+    <Remarks>
+    </Remarks>
+    <InvoiceLines>
+      <InvoiceLine>
+        <InvoiceNumber>105</InvoiceNumber>
+        <LineNumber>1</LineNumber>
+        <ItemName>S10000</ItemName>
+        <Description>Server Point 10000</Description>
+        <AircraftRegistration>
+        </AircraftRegistration>
+        <AircraftType>
+        </AircraftType>
+        <FlightDate>23-06-2014</FlightDate>
+        <FlightNumber>
+        </FlightNumber>
+        <AirportTimeArrival>
+        </AirportTimeArrival>
+        <AirportTimeDeparture>
+        </AirportTimeDeparture>
+        <Country>
+        </Country>
+        <AirportICAO>
+        </AirportICAO>
+        <AirportIATA>
+        </AirportIATA>
+        <Price>124350</Price>
+        <Quantity>1</Quantity>
+        <Unit>1</Unit>
+        <Amount>124350</Amount>
+      </InvoiceLine>
+    </InvoiceLines>
+  </Invoice>
+</Invoices>

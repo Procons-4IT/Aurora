@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<Invoices>
+  <From>OEC Computers India</From>
+  <RegisteredAddress>2nd Floor, The Great Eastern CenterNo 70  Nehru PlaceNew Delhi - 110019IN</RegisteredAddress>
+  <CorrespondenceAddress>2nd Floor, The Great Eastern CenterNo 70  Nehru PlaceNew Delhi - 110019IN</CorrespondenceAddress>
+  <Invoice>
+    <InvoiceNumber>106</InvoiceNumber>
+    <InvoiceDate>24-06-2014</InvoiceDate>
+    <DueDate>24-07-2014</DueDate>
+    <InvoiceType>DOD</InvoiceType>
+    <Customer>C40000</Customer>
+    <Name>Earthshaker Corporation</Name>
+    <OrderReference>NOS10010</OrderReference>
+    <TotalBeforeVAT>310875</TotalBeforeVAT>
+    <VATAmount>12435</VATAmount>
+    <GrandTotal>323310</GrandTotal>
+    <Discount>0</Discount>
+    <Currency>INR</Currency>
+    <Remarks>afdsafdasdf</Remarks>
+    <InvoiceLines>
+      <InvoiceLine>
+        <InvoiceNumber>106</InvoiceNumber>
+        <LineNumber>1</LineNumber>
+        <ItemName>S10000</ItemName>
+        <Description>Server Point 10000</Description>
+        <AircraftRegistration>
+        </AircraftRegistration>
+        <AircraftType>
+        </AircraftType>
+        <FlightDate>24-06-2014</FlightDate>
+        <FlightNumber>UIDI0001</FlightNumber>
+        <AirportTimeArrival>UIDI0001</AirportTimeArrival>
+        <AirportTimeDeparture>UIDI0001</AirportTimeDeparture>
+        <Country>
+        </Country>
+        <AirportICAO>
+        </AirportICAO>
+        <AirportIATA>
+        </AirportIATA>
+        <Price>103625</Price>
+        <Quantity>1</Quantity>
+        <Unit>1</Unit>
+        <Amount>103625</Amount>
+      </InvoiceLine>
+      <InvoiceLine>
+        <InvoiceNumber>106</InvoiceNumber>
+        <LineNumber>2</LineNumber>
+        <ItemName>S11000</ItemName>
+        <Description>Server Point 11000</Description>
+        <AircraftRegistration>
+        </AircraftRegistration>
+        <AircraftType>
+        </AircraftType>
+        <FlightDate>24-06-2014</FlightDate>
+        <FlightNumber>UIDI0001</FlightNumber>
+        <AirportTimeArrival>UIDI0001</AirportTimeArrival>
+        <AirportTimeDeparture>UIDI0001</AirportTimeDeparture>
+        <Country>
+        </Country>
+        <AirportICAO>
+        </AirportICAO>
+        <AirportIATA>
+        </AirportIATA>
+        <Price>103625</Price>
+        <Quantity>1</Quantity>
+        <Unit>1</Unit>
+        <Amount>103625</Amount>
+      </InvoiceLine>
+      <InvoiceLine>
+        <InvoiceNumber>106</InvoiceNumber>
+        <LineNumber>3</LineNumber>
+        <ItemName>S20000</ItemName>
+        <Description>Server Point 20000</Description>
+        <AircraftRegistration>
+        </AircraftRegistration>
+        <AircraftType>
+        </AircraftType>
+        <FlightDate>24-06-2014</FlightDate>
+        <FlightNumber>UIDI0001</FlightNumber>
+        <AirportTimeArrival>UIDI0001</AirportTimeArrival>
+        <AirportTimeDeparture>UIDI0001</AirportTimeDeparture>
+        <Country>
+        </Country>
+        <AirportICAO>
+        </AirportICAO>
+        <AirportIATA>
+        </AirportIATA>
+        <Price>103625</Price>
+        <Quantity>1</Quantity>
+        <Unit>1</Unit>
+        <Amount>103625</Amount>
+      </InvoiceLine>
+    </InvoiceLines>
+  </Invoice>
+</Invoices>
